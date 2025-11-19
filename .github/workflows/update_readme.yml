@@ -1,17 +1,15 @@
-name: Update Recent Activity
+name: Update README
 
 on:
   schedule:
-    - cron: "12 * * * *"
-  workflow_dispatch:
+    - cron: '0 */12 * * *' # Cada 12 horas
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: jaywcjlove/github-action-readme@main
-        with:
-          start_marker: "<!--RECENT_ACTIVITY:start-->"
-          end_marker: "<!--RECENT_ACTIVITY:end-->"
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Update README with recent activity
+        uses: juan1988-tech/juan1988-tech@main # Reemplaza con tu información
+  
