@@ -12,4 +12,3 @@ jobs:
         uses: actions/checkout@v2
       - name: Update README with recent activity
         uses: juan1988-tech/juan1988-tech@main # Reemplaza con tu información
-  
