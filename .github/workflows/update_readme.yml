@@ -11,7 +11,10 @@ jobs:
     name: Update Profile README
 
     steps:
-      - uses: actions/checkout@v4.2.2
+      - uses: jaywcjlove/github-action-readme@main
+        with:
+          start_marker: "<!--RECENT_ACTIVITY:start-->"
+          end_marker: "<!--RECENT_ACTIVITY:end-->"
       
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
