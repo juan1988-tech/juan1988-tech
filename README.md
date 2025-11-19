@@ -11,6 +11,13 @@
 
 - 🎨 I design interfaces*for desktop and mobile using UX/UI techniques, turning your ideas into real product
 
+
+## Actividad reciente: 📲
+<!--START_SECTION:activity-->
+
+
+<!--END_SECTION:activity-->
+
 <br/>
 <h1 height="32" align="center">Stack and Design tools</h1>
 <br/>
