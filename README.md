@@ -114,5 +114,6 @@ Participo activamente en el ciclo de vida completo de productos digitales, desde
 - 📞 [(+57)3142366069](https://api.whatsapp.com/message/YEMLDGSKRE4RK1?autoload=1&app_absent=0)
 - 📲 [Portafolio](https://juan1988-tech.github.io/portafolio-web/)
 - 🔗 [Linkedin](https://www.linkedin.com/in/jfranco-webdev/)
+-  📩 jfrancoh5@gmail.com
 
 
