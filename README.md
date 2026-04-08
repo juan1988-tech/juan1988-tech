@@ -43,13 +43,11 @@ caracterizo por mi constante auto-formación, creatividad, trabajo en equipo y a
 
 Fortalecí mi dominio en el **ciclo de vida** del producto mediante una especialización avanzada en **Desarrollo Fullstack** y **QA Automation**. Lo cual me permitió perfeccionar la implementación de arquitecturas escalables y el diseño de estrategias de prueba automatizadas unitarias y en escenarios end-to-end, garantizando la integridad técnica y la calidad del software en entornos de desarrollo dinámicos y de alta exigencia
 
-
-
 ### Desarrollador web UX/UI Designer
 #### Freelance
 #### Diciembre 2024 - presente
 
-Lidero el ciclo de vida completo de productos digitales, desde la concepción estratégica y el diseño de experiencia de usuario (UX/UI) hasta el despliegue técnico Fullstack. Implemento metodologías ágiles para gestionar proyectos complejos, garantizando entregas eficientes y productos tecnológicos de alta calidad que alinean los objetivos de negocio con las necesidades del usuario final
+Participo activamente en el ciclo de vida completo de productos digitales, desde la concepción estratégica y el diseño de experiencia de usuario (UX/UI) hasta el despliegue técnico Fullstack. Implemento metodologías ágiles para gestionar proyectos complejos, garantizando entregas eficientes y productos tecnológicos de alta calidad que alinean los objetivos de negocio con las necesidades del usuario final
 
 
 ## Proyectos
