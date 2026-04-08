@@ -1,5 +1,5 @@
 ## Hola, Mi nombre es Juan 👋
-### Fullstack engineer full cycle
+### Fullstack engineer full cycle and QA
 
 **Desarrollador Full Stack AI-First** con un enfoque integral en la creación de aplicaciones robustas y escalables.
 Integro la Inteligencia Artificial en todo el ciclo de vida del producto: desde el diseño de experiencias UX/UI de
