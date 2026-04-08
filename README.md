@@ -75,7 +75,7 @@ Participo activamente en el ciclo de vida completo de productos digitales, desde
       </a>
     </td>
     <td style="padding: 0; border: none;">
-      <a href="https://vercel.app">
+      <a href="[https://vercel.app](https://biblioteams-2.vercel.app/)">
         <img src="biblioteams.jpg" alt="Biblioteams" style="display: block; width: 100%; aspect-ratio: 16/9; object-fit: cover;">
       </a>
     </td>
