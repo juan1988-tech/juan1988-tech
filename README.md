@@ -1,4 +1,6 @@
-## Hola, Mi nombre es Juan 👋
+## Hola, Mi nombre es Juan David Franco👋
+
+
 ### Fullstack engineer full cycle and QA
 
 **Desarrollador Full Stack AI-First** con un enfoque integral en la creación de aplicaciones robustas y escalables.
@@ -105,5 +107,12 @@ Participo activamente en el ciclo de vida completo de productos digitales, desde
     </td>
   </tr>
 </table>
+
+
+## Contacto
+
+- 📞 [(+57)3142366069](https://api.whatsapp.com/message/YEMLDGSKRE4RK1?autoload=1&app_absent=0)
+- 📲 [Portafolio](https://juan1988-tech.github.io/portafolio-web/)
+- 🔗 [Linkedin](https://www.linkedin.com/in/jfranco-webdev/)
 
 
